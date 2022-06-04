@@ -1,0 +1,23 @@
+
+.menu{
+	width: 100%;
+	height: auto;
+	text-align: center;
+}
+
+.menu ul li a{
+	color: red;
+	text-decoration: none;
+	float: left;
+	padding-left: 10px;
+}
+
+.menu ul li a:hover{
+	color: blue;
+	text-decoration: underline;
+}
+
+.menu ul li{
+	list-style-type: none;
+
+}
